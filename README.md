@@ -1,68 +1,44 @@
-## Hi. I'm Dhrubajotee Howlader
+## Hi, I'm Dhrubajotee 👋
 
-💻 Software Engineer | React & Next.js | Node.js & PHP  
-📍 Jyväskylä, Finland | 🇪🇺 Open to Full-time Opportunities
+Full-Stack Engineer with 4+ years of production experience in React, Next.js, and Node.js — currently pursuing an M.Sc. in Artificial Intelligence at the University of Jyväskylä, Finland.
 
-Software Engineer with **4+ years of experience** building end-to-end web applications for **banking and enterprise ERP systems**.  
-Strong frontend expertise in **React & Next.js**, with solid backend experience using **Node.js and PHP (Laravel, CodeIgniter)**.
+I build reliable web applications and am actively exploring the intersection of software engineering and AI.
+
+📍 Jyväskylä, Finland &nbsp;·&nbsp; 🟢 Open to full-time roles in Finland
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [EduSphere](https://github.com/dhrubajotee/EduSphere) | Academic GenAI platform — transforms transcripts into course recommendations using GPT-4o-mini, hybrid RAG, and streaming chat | Golang · React · PostgreSQL · OpenAI |
+| [My Linkki Tracker](https://github.com/dhrubajotee/my-linkki-tracker) | Real-time public transport tracker for Jyväskylä using the official Linkki Open Data API | Next.js · React · Linkki API |
+| [Finnish Weather Dashboard](https://github.com/dhrubajotee/finnish-weather-dashboard) | Weather dashboard for Finnish cities with 5-day forecasts via Open-Meteo API | React · Next.js · Tailwind CSS |
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
-- React.js, Next.js
-- JavaScript (ES6+)
-- Tailwind CSS, Ant Design
-- HTML5, CSS3
+**Frontend** &nbsp; React.js · Next.js · JavaScript (ES6+) · Tailwind CSS · Ant Design
 
-**Backend**
-- Node.js
-- PHP (Laravel, CodeIgniter)
-- RESTful API Development
-- Authentication & Validation
+**Backend** &nbsp; Node.js · PHP · Laravel · CodeIgniter · RESTful APIs · Golang
 
-**Databases**
-- MySQL, PostgreSQL, Oracle
+**Databases** &nbsp; MySQL · PostgreSQL · Oracle
 
-**Tools & Workflow**
-- Git & GitHub
-- VS Code, PHPStorm
-- Agile / Scrum
-- API Integration & Performance Optimization
+**Tools** &nbsp; Git · Docker · VS Code · Agile/Scrum
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-**Software Engineer — APSIS Solutions Ltd.**  
-📍 Dhaka, Bangladesh | 🗓 Nov 2019 – Aug 2024
-
-- Built and maintained **production-grade web applications** for banking clients including **IFIC Bank** and **Prime Bank**.
-- Developed scalable, reusable frontend components using **React, Next.js, Tailwind CSS, and Ant Design**.
-- Designed and integrated **RESTful APIs**, handling authentication, validation, and error management.
-- Contributed to ERP systems covering **finance, inventory, rental, and fixed asset management**.
-- Collaborated closely with product owners, designers, and engineers in **Agile/Scrum teams**.
-- Improved application performance through optimized API design and frontend data handling.
+**Software Engineer — APSIS Solutions Ltd.** *(Nov 2019 – Aug 2024)*
+Built production web applications for banking clients (IFIC Bank, Prime Bank) and enterprise ERP systems using React, Next.js, Node.js, and PHP.
 
 ---
 
-### 🎓 Education
+### 📬 Get in Touch
 
-**M.Sc. in Artificial Intelligence**  
-University of Jyväskylä, Finland (2024 – 2026)
-
-**B.Sc. in Computer Science & Engineering**  
-Khulna University of Engineering & Technology, Bangladesh
-
----
-
-### 📫 Contact Me
-
-- 💼 LinkedIn: https://linkedin.com/in/dhrubajotee
-- 📧 Email: djhowlader29@gmail.com
-- 🧑‍💻 GitHub: https://github.com/dhrubajotee
-
----
-
-⭐ Open to **Software Engineer / Frontend / Full-Stack roles** in Finland, EU, or Remote
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhrubajotee--portfolio.vercel.app-blue?style=flat-square)](https://dhrubajotee-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhrubajotee-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhrubajotee)
+[![Email](https://img.shields.io/badge/Email-djhowlader29@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:djhowlader29@gmail.com)
